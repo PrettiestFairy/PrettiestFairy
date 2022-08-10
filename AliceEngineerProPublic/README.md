@@ -10,6 +10,6 @@ Project document move to [AliceEngineerProPublic](https://github.com/AliceEngine
 
 - 雷达外推
 
-  1. [部署帮助手册](https://github.com/AliceEngineerPro/AliceEngineerPro/wiki/doc:-DeployRadarHelpDocs)
-  2. [启动脚本手册](https://github.com/AliceEngineerPro/AliceEngineerPro/wiki/doc:-AI_extrapolation)
+  1. [部署帮助手册](https://github.com/AliceEngineerPro/AliceEngineerProPublic/wiki/doc:-DeployRadarHelpDocs)
+  2. [启动脚本手册](https://github.com/AliceEngineerPro/AliceEngineerProPublic/wiki/doc:-AI_extrapolation)
 
