@@ -7,8 +7,8 @@
 ## Welcome to my space ! ! !
 
 - **Nickname: Alice(From Chengdu.China...)** 
-- **Gender: Male (👨 This is very important 😕 )** 
-- **Telegram: [@AliceFairy](https://t.me/AliceProfession) 
+- **Gender: Male (👨 This is very important 😕)** 
+- **Telegram: [@AliceFairy](https://t.me/AliceProfession)** 
 
 As of July, 2022; Submitted by [AliceEngineer](https://github.com/AliceEngineer) 
 
