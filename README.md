@@ -7,12 +7,7 @@
 - **Nickname: Alice(From Chengdu.CN.)** 
 - **Gender: Male (👨 This's very important! 😕)** 
 - **Contact: [Telegram:@AliceFairy](https://t.me/AliceProfession) If you're in Chinese mainland, please scan the QR code at the end of the document to contact me.** 
-- **E-mail:** 
-  - **Yahoo: tinger.fairy@yahoo.com** 
-  - **Gmail: alice.engineer.pro@gmail.com** 
-  - **Proton: alice.engineer.pro@protonmail.com alice.engineer.pro@pm.me** 
-  - **Yeah: alice_engineer@yeah.net** 
-  
+- **E-mail: alice.engineer.pro@protonmail.com** 
 
 As of July, 2022; Submitted by [AliceEngineer](https://github.com/AliceEngineer) 
 
