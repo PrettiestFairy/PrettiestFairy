@@ -9,6 +9,10 @@
 - **Contact: [Telegram:@AliceFairy](https://t.me/AliceProfession) If you're in Chinese mainland, please scan the QR code at the end of the document to contact me.** 
 - **E-mail: alice.engineer.pro@protonmail.com** 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceEngineerPro&count_private=true&show_icons=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceEngineerPro&langs_count=10&layout=compact) 
+
 As of July, 2022; Submitted by [AliceEngineer](https://github.com/AliceEngineer) 
 
 ## About my account
