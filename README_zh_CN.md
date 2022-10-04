@@ -1,44 +1,45 @@
-## Hi, I'm Alice Engineer 👋
+## 嗨, 我是艾莉丝工程师 👋
 
 [![author](https://img.shields.io/badge/Author-Alice-orange)](https://t.me/AliceProfession) [![github](https://img.shields.io/badge/Github-AliceEngineerPro-green)](https://github.com/AliceEngineerPro) [![type](https://img.shields.io/badge/Type-Personal-blue)](#) [![editor](https://img.shields.io/badge/Editor-Typora-yellow)](#) [![file](https://img.shields.io/badge/Language-Markdown-orange)](#) [![version](https://img.shields.io/badge/Version-Release-blue)](#) [![docs](https://img.shields.io/badge/Docs-Passing-brightgreen)](#) [![](https://img.shields.io/badge/%E7%AD%89%E6%88%91%E4%BB%A3%E7%A0%81%E7%BC%96%E6%88%90-%E5%A8%B6%E4%BD%A0%E4%B8%BA%E5%A6%BB%E5%8F%AF%E5%A5%BD-red)](#)
 
-[Home](https://github.com/AliceEngineerPro) | [中文](./README_zh_CN.md) 
+[Home](https://github.com/AliceEngineerPro) | [English](./README.md) 
 
-## 🎉Welcome to my pagehome
+## 🎉欢迎来到我的主页
 
-**Ask me questions or leave me a message 👉 [MessageBoard](https://github.com/AliceEngineerPro/AliceEngineerProPublic/issues/30)** 
+**向我提问或给我留言 👉 [MessageBoard](https://github.com/AliceEngineerPro/AliceEngineerProPublic/issues/30)** 
 
-- **Nickname: Alice(From Chengdu.China)** 
-- **Gender: Male (👨 This's very important! 😕)** 
-- **Contact: [Telegram:@AliceFairy](https://t.me/AliceProfession) If you're in Chinese mainland, please scan the QR code at the end of the document to contact me.** 
-- **E-mail: alice.engineer.pro@protonmail.com** 
+- **昵称: Alice(来自中国成都)** 
+- **性别: 男 (👨 这很重要! 😕)** 
+- **联系方式: [Telegram:@AliceFairy](https://t.me/AliceProfession) 如果你在中国大陆，请扫描末尾的二维码联系我。** 
+- **邮箱: alice.engineer.pro@protonmail.com** 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceEngineerPro&count_private=true&show_icons=true)](#) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceEngineerPro&langs_count=10&layout=compact)](#) 
 
-As of July, 2022; Submitted by [AliceEngineer](https://github.com/AliceEngineer) 
+截至2022年7月；由[AliceEngineer](https://github.com/AliceEngineer)提交
 
-## About my account
+## 关于我的账号
 
-**Don't forget to follow me and my organization** 
+**别忘了关注我和我的组织** 
 
-- [**AliceEngineerPro**](https://github.com/AliceEngineerPro) (Administrator)
-- [**AliceEngineer**](https://github.com/AliceEngineer) (Daily)
-- [**AliceWorkSpace**](https://github.com/AliceWorkSpace) (Work)
+- [**AliceEngineerPro**](https://github.com/AliceEngineerPro) (管理员)
+- [**AliceEngineer**](https://github.com/AliceEngineer) (日常使用)
+- [**AliceWorkSpace**](https://github.com/AliceWorkSpace) (工作使用) 
 
-**This Gitee, [GiteeHome](https://gitee.com/AliceEngineerPro) Hardly use it, but don't forget** 
+**这是Gitee，[Gitee](https://Gitee . com/aliceengineerepro) 几乎不用，但是别忘了** 
 
-## About my organization
+## 关于我的组织
 
 - [**AliceEngineerDaily**](https://github.com/AliceEngineerDaily) 
 
-## Finale: Other friends
+## 最后: 其他朋友
 
 - [Devil](https://github.com/Devil1314412) 
 
 ---
 
-## Scan QR Code
+## 扫描二维码
 
 ![QRCode](https://file.share.alicehome.ltd/data/images/line.png)
+
