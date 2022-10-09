@@ -23,8 +23,8 @@
 
 **别忘了关注我和我的组织** 
 
-- [**AliceEngineerPro**](https://github.com/AliceEngineerPro) (管理员)
-- [**AliceEngineer**](https://github.com/AliceEngineer) (日常使用)
+- [**AliceEngineerPro**](https://github.com/AliceEngineerPro) (管理员) 
+- [**AliceEngineer**](https://github.com/AliceEngineer) (日常使用) 
 - [**AliceWorkSpace**](https://github.com/AliceWorkSpace) (工作使用) 
 
 **这是Gitee，[Gitee](https://Gitee . com/aliceengineerepro) 几乎不用，但是别忘了** 
@@ -41,5 +41,5 @@
 
 ## 扫描二维码
 
-![QRCode](https://file.share.alicehome.ltd/data/images/line.png)
+![QRCode](./static/images/line.png)
 

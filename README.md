@@ -23,9 +23,9 @@ As of July, 2022; Submitted by [AliceEngineer](https://github.com/AliceEngineer)
 
 **Don't forget to follow me and my organization** 
 
-- [**AliceEngineerPro**](https://github.com/AliceEngineerPro) (Administrator)
-- [**AliceEngineer**](https://github.com/AliceEngineer) (Daily)
-- [**AliceWorkSpace**](https://github.com/AliceWorkSpace) (Work)
+- [**AliceEngineerPro**](https://github.com/AliceEngineerPro) (Administrator) 
+- [**AliceEngineer**](https://github.com/AliceEngineer) (Daily) 
+- [**AliceWorkSpace**](https://github.com/AliceWorkSpace) (Work) 
 
 **This Gitee, [GiteeHome](https://gitee.com/AliceEngineerPro) Hardly use it, but don't forget** 
 
@@ -41,4 +41,4 @@ As of July, 2022; Submitted by [AliceEngineer](https://github.com/AliceEngineer)
 
 ## Scan QR Code
 
-![QRCode](https://file.share.alicehome.ltd/data/images/line.png)
+![QRCode](./static/images/line.png)
