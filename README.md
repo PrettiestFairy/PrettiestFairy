@@ -4,6 +4,10 @@
 
 [Home](https://github.com/AliceEngineerPro) | [中文](./README_zh_CN.md) 
 
+<div align="center"><img src="./static/images/title.gif" alt="title"></div>
+
+[//]: # (![title]&#40;./static/images/title.gif&#41; )
+
 ## 🎉Welcome to my pagehome
 
 **Ask me questions or leave me a message 👉 [MessageBoard](https://github.com/AliceEngineerPro/AliceEngineerProPublic/issues/30)** 
