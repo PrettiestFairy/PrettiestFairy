@@ -13,9 +13,11 @@
 - **Contact: [Telegram:@AliceFairy](https://t.me/AliceProfession) If you're in Chinese mainland, please scan the QR code at the end of the document to contact me.** 
 - **E-mail: alice.engineer.pro@protonmail.com** 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceEngineerPro&count_private=true&show_icons=true)](https://github.com/AliceEngineerPro) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceEngineerPro&count_private=true&show_icons=true)](https://github.com/AliceEngineerPro) [![repo](https://raw.githubusercontent.com/AliceEngineerPro/fork_github-stats-transparent/output/generated/overview.svg)](https://github.com/AliceEngineerPro) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceEngineerPro&langs_count=10&layout=compact)](https://github.com/AliceEngineerPro) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceEngineerPro&langs_count=10&layout=compact)](https://github.com/AliceEngineerPro) [![GitHub Streak](https://streak-stats.demolab.com?user=AliceEngineerPro&hide_border=true)](https://github.com/AliceEngineerPro) 
+
+[![commit](https://activity-graph.herokuapp.com/graph?username=AliceEngineerPro&theme=dracula)](https://github.com/AliceEngineerPro) 
 
 As of July, 2022; Submitted by [AliceEngineer](https://github.com/AliceEngineer) 
 
