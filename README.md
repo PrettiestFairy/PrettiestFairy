@@ -1,6 +1,7 @@
-## Hi, I'm Alice Engineer 👋
+## Hi, I'm Alice Engineer 👋 
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=ifn74P-o-eyn_fvm7_z6_uDm58nv5vHk6ODlp_rm5A" style="text-decoration:none;"><img src="./static/images/ico_mailme_02.png"/></a>
 
-[![author](https://img.shields.io/badge/Author-Alice-orange)](https://t.me/FairyAlicePro) [![github](https://img.shields.io/badge/Github-AliceEngineerPro-green)](https://github.com/AliceEngineerPro) [![github](https://img.shields.io/badge/GitBook-AliceEngineerProGitBook-green)](https://interestingbooks.gitbook.io/) [![type](https://img.shields.io/badge/Type-Profile-blue)](https://github.com/AliceEngineerPro) [![editor](https://img.shields.io/badge/Editor-Typora-yellow)](https://github.com/AliceEngineerPro) [![file](https://img.shields.io/badge/Language-Markdown-orange)](https://github.com/AliceEngineerPro) [![version](https://img.shields.io/badge/Version-Release-blue)](https://github.com/AliceEngineerPro) [![docs](https://img.shields.io/badge/Docs-Passing-brightgreen)](https://github.com/AliceEngineerPro) [![](https://img.shields.io/badge/%E7%AD%89%E6%88%91%E4%BB%A3%E7%A0%81%E7%BC%96%E6%88%90-%E5%A8%B6%E4%BD%A0%E4%B8%BA%E5%A6%BB%E5%8F%AF%E5%A5%BD@-red)](https://github.com/AliceEngineerPro) 
+[![author](https://img.shields.io/badge/Author-Alice-orange)](https://t.me/FairyAlicePro) [![github](https://img.shields.io/badge/Github-AliceEngineerPro-green)](https://github.com/AliceEngineerPro) [![github](https://img.shields.io/badge/GitBook-AliceEngineerProGitBook-green)](https://interestingbooks.gitbook.io/) [![editor](https://img.shields.io/badge/Editor-Typora-yellow)](https://github.com/AliceEngineerPro) [![file](https://img.shields.io/badge/Language-Markdown-orange)](https://github.com/AliceEngineerPro) [![version](https://img.shields.io/badge/Version-Release-blue)](https://github.com/AliceEngineerPro) [![docs](https://img.shields.io/badge/Docs-Passing-brightgreen)](https://github.com/AliceEngineerPro) [![type](https://img.shields.io/badge/Type-Profile-blue)](https://github.com/AliceEngineerPro) [![wakatime](https://wakatime.com/badge/user/fa851759-c657-4b1e-8bcb-3ec3a693a2cd.svg)](https://wakatime.com/@fa851759-c657-4b1e-8bcb-3ec3a693a2cd) [![sign](https://img.shields.io/badge/%E7%AD%89%E6%88%91%E4%BB%A3%E7%A0%81%E7%BC%96%E6%88%90-%E5%A8%B6%E4%BD%A0%E4%B8%BA%E5%A6%BB%E5%8F%AF%E5%A5%BD@-red)](https://github.com/AliceEngineerPro) 
 
 [Home](https://github.com/AliceEngineerPro) | [中文](./README_zh_CN.md) 
 
@@ -22,8 +23,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceEngineerPro&count_private=true&show_icons=true)](https://github.com/AliceEngineerPro) 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliceEngineerPro&hide_border=true)](https://github.com/AliceEngineerPro) 
-
-[![Commit](https://activity-graph.herokuapp.com/graph?username=AliceEngineerPro&theme=dracula)](https://github.com/AliceEngineerPro) 
 
 As of July, 2022; Submitted by [AliceEngineer](https://github.com/AliceEngineer) 
 
