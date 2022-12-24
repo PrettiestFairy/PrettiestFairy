@@ -22,8 +22,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceEngineerPro&count_private=true&show_icons=true)](https://github.com/AliceEngineerPro) 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AliceEngineerPro&hide_border=true)](https://github.com/AliceEngineerPro) 
-
 As of July, 2022; Submitted by [AliceEngineer](https://github.com/AliceEngineer) 
 
 ## About my account
