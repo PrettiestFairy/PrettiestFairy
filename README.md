@@ -52,11 +52,11 @@ Language Switching: [English✔️](README.md) | [Chinese❌](READMD-ZH_CN.md)
 - **Telegram: [@FairyLtd](https://t.me/FairyLtd) ~~If you're in Chinese mainland, please scan the QR code at the end of the document ontact me.~~**
 - **E-mail: ~~fairy.alice@proton.me~~ fairylandhost@outlook.com**
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinFairyland&langs_count=10&layout=compact)](https://github.com/AustinFairyland)
+![TopLangs](https://raw.githubusercontent.com/AustinFairyland/fork_github-stats-transparent/output/generated/languages.svg)
 
-[![GitHubRepo](https://raw.githubusercontent.com/AustinFairyland/fork_github-stats-transparent/output/generated/overview.svg)](https://github.com/AustinFairyland)
+![GitHubRepo](https://raw.githubusercontent.com/AustinFairyland/fork_github-stats-transparent/output/generated/overview.svg)
 
-[![GitHubStats](https://github-readme-stats.vercel.app/api?username=AustinFairyland&count_private=true&show_icons=true)](https://github.com/AustinFairyland)
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=AustinFairyland&count_private=true&show_icons=true)
 
 As of July, 2022; Submitted by [Austin](https://github.com/AustinFairyland)
 
