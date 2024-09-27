@@ -1,0 +1,6 @@
+[submodule "home-page"]
+path = home-page
+url = https://github.com/FairylandTech/home.git
+branch = ReleaseMaster
+update = checkout
+ignore = dirty
