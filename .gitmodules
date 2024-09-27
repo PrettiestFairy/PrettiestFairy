@@ -1,4 +1,4 @@
-[submodule "future/home-page"]
-	path = future/home-page
-	url = https://github.com/FairylandTech/home-page.git
-	branch = ReleaseMaster
+[submodule "feature/home-page"]
+    path = feature/home-page
+    url = https://github.com/FairylandTech/home-page.git
+    branch = ReleaseMaster
