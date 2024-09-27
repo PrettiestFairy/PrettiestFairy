@@ -1,0 +1,17 @@
+# ---------- Development ----------
+# editor folder
+.idea
+.vscode
+# log, logs folder
+log[s]
+# dev config file
+conf/dev/config.yaml
+conf/pypi/.pypirc
+# temp folder, exclude markdown file
+temp/*
+!temp/*.md
+
+# ---------- build ----------
+build
+dist
+PyFairylandFuture.egg-info
